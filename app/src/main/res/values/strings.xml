@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Atividade 1</string>
+
+    <string name="digite_nome">Digite o nome:</string>
+    <string name="digite_sobrenome">Digite o sobrenome:</string>
+    <string name="action_settings">Settings</string>
+    <string name="ok">Ok</string>
+</resources>
